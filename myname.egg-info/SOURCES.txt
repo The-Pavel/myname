@@ -1,0 +1,9 @@
+setup.py
+myname/__init__.py
+myname/lib.py
+myname.egg-info/PKG-INFO
+myname.egg-info/SOURCES.txt
+myname.egg-info/dependency_links.txt
+myname.egg-info/requires.txt
+myname.egg-info/top_level.txt
+scripts/myname-run
